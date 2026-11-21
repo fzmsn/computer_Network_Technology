@@ -44,11 +44,10 @@
 HCIA-Datacom/
 ├── README.md                 # 项目说明
 ├── 培训教材/
-│   └── HCIA-Datacom-V2.0.pdf
-└── 实验资料/
-    ├── 实验文档/
-    ├── 实验拓扑/
-    └── 配置记录/
+├── HCIA-Datacom-V2.0培训教材.pdf
+├── HCIA-Datacom-V2.0实验手册.pdf
+├── HCIA-Datacom-V2.0实验手册(eNSP Pro).pdf
+└── HCIA-Datacom-V2.0版本说明.pdf
 ```
 
 ## 🧪 实验建议
