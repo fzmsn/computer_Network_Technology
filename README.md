@@ -43,7 +43,6 @@
 ``` text
 HCIA-Datacom/
 ├── README.md                 # 项目说明
-├── 培训教材/
 ├── HCIA-Datacom-V2.0培训教材.pdf
 ├── HCIA-Datacom-V2.0实验手册.pdf
 ├── HCIA-Datacom-V2.0实验手册(eNSP Pro).pdf
